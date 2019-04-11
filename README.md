@@ -1,8 +1,6 @@
 # yelp_dataset_challenge
 
 # run docker
-#docker run -it --rm --name ds-jupyter -p 8888:8888 -v /Users/kai/workspace/yelp-dataset-challenge:/home/jovyan/work jupyter/minimal-notebook
-
 docker run -it --rm --name ds-jupyter -p 8888:8888 -v /Users/kai/workspace/yelp-dataset-challenge:/home/jovyan/work jupyter/datascience-notebook
 
 # open the jupyter notebook
