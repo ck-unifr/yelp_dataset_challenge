@@ -4,9 +4,15 @@
 
 - script: **predict_star_rating_with_checkin.ipynb**
 
+- steps:
+
+	-- Data loading
+
 ## Case 2: predict star ratings with photo
 
 - script: **predict_star_rating_with_photos.ipynb**
+
+- steps:
 
 
 ## Execute the scripts in docker
