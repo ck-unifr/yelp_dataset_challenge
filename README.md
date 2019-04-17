@@ -2,16 +2,24 @@
 
 ## Case 1: predict star ratings with checkin data
 
-- script: **predict_star_rating_with_checkin.ipynb**
+- Script: **predict_star_rating_with_checkin.ipynb**
 
-- steps:
+- Steps
 	- Data loading
+	- Preprocessing
+	- Model training
+	- Evaluation
 
 ## Case 2: predict star ratings with photo
 
-- script: **predict_star_rating_with_photos.ipynb**
 
-- steps:
+- Script: **predict_star_rating_with_photos.ipynb**
+
+- Steps
+	- Data loading
+	- Preprocessing
+	- Model training
+	- Evaluation
 
 
 ## Execute the scripts in docker
