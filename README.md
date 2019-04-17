@@ -5,8 +5,7 @@
 - script: **predict_star_rating_with_checkin.ipynb**
 
 - steps:
-
-	-- Data loading
+	- Data loading
 
 ## Case 2: predict star ratings with photo
 
