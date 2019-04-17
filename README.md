@@ -6,7 +6,10 @@
 
 - Steps
 	- Data loading
+		Read the business data and checkin data from csv files
+		
 	- Preprocessing
+	
 	- Model training
 	- Evaluation
 
