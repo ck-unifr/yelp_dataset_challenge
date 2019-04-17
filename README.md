@@ -2,28 +2,18 @@
 
 ## Case 1: predict star ratings with checkin data
 
+- The problem is formulated as a multi-lable classification problem
+
 - Script: **predict_star_rating_with_checkin.ipynb**
 
-- Steps
-	- Data loading
-	
-		Read the business data and checkin data from csv files
-		
-	- Preprocessing
-	
-	- Model training
-	- Evaluation
+
 
 ## Case 2: predict star ratings with photo
 
 
-- Script: **predict_star_rating_with_photos.ipynb**
+- The problem is formulated as a multi-lable classification problem
 
-- Steps
-	- Data loading
-	- Preprocessing
-	- Model training
-	- Evaluation
+- Script: **predict_star_rating_with_photos.ipynb**
 
 
 ## Execute the scripts in docker
